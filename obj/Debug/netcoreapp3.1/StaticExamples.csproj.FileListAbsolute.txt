@@ -1,0 +1,11 @@
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.exe
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.deps.json
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.json
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.dev.json
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Code\OOP.1.7 - StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.pdb
+C:\Code\OOP.1.7 - StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.csprojAssemblyReference.cache
+C:\Code\OOP.1.7 - StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfoInputs.cache
+C:\Code\OOP.1.7 - StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfo.cs
+C:\Code\OOP.1.7 - StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Code\OOP.1.7 - StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.pdb
